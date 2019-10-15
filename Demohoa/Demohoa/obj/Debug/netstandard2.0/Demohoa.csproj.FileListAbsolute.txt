@@ -1,0 +1,14 @@
+C:\Users\cuongdolar\source\repos\Demohoa\Demohoa\Demohoa\bin\Debug\netstandard2.0\Demohoa.deps.json
+C:\Users\cuongdolar\source\repos\Demohoa\Demohoa\Demohoa\bin\Debug\netstandard2.0\Demohoa.dll
+C:\Users\cuongdolar\source\repos\Demohoa\Demohoa\Demohoa\bin\Debug\netstandard2.0\Demohoa.pdb
+C:\Users\cuongdolar\source\repos\Demohoa\Demohoa\Demohoa\obj\Debug\netstandard2.0\Demohoa.csprojAssemblyReference.cache
+C:\Users\cuongdolar\source\repos\Demohoa\Demohoa\Demohoa\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cuongdolar\source\repos\Demohoa\Demohoa\Demohoa\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cuongdolar\source\repos\Demohoa\Demohoa\Demohoa\obj\Debug\netstandard2.0\PageListiewHoa.xaml.g.cs
+C:\Users\cuongdolar\source\repos\Demohoa\Demohoa\Demohoa\obj\Debug\netstandard2.0\PageListviewGroup.xaml.g.cs
+C:\Users\cuongdolar\source\repos\Demohoa\Demohoa\Demohoa\obj\Debug\netstandard2.0\Demohoa.csproj.CoreCompileInputs.cache
+C:\Users\cuongdolar\source\repos\Demohoa\Demohoa\Demohoa\obj\Debug\netstandard2.0\Demohoa.AssemblyInfoInputs.cache
+C:\Users\cuongdolar\source\repos\Demohoa\Demohoa\Demohoa\obj\Debug\netstandard2.0\Demohoa.AssemblyInfo.cs
+C:\Users\cuongdolar\source\repos\Demohoa\Demohoa\Demohoa\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cuongdolar\source\repos\Demohoa\Demohoa\Demohoa\obj\Debug\netstandard2.0\Demohoa.dll
+C:\Users\cuongdolar\source\repos\Demohoa\Demohoa\Demohoa\obj\Debug\netstandard2.0\Demohoa.pdb
